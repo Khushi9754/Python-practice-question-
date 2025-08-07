@@ -11,7 +11,6 @@ obj2=Demo("monika",24)
 obj3=Demo("varsha",26)
 
 l1=[obj,obj2,obj3]
-#dic={0:obj,1:obj2,2:obj3}
 tu=(obj,obj2,obj3)
 
 for i in l1:
